@@ -1,0 +1,70 @@
+{
+    "Header.Item1": "About Me",
+    "Header.Item2": "Experience",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "CV_Kajal_Udani.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "With <span class='underline'>6 years </span> of experience in developing scalable systems and intuitive user interfaces, I specialize in building robust web applications using <span class='underline'>Angular</span> with <span class='underline'>TypeScript/JavaScript</span>. I am passionate about crafting clean, reusable, and maintainable code, consistently applying industry best practices and modern development standards. My focus is on delivering high-performance, user-centric solutions that enhance functionality and user experience across the web.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About Me",
+    "AboutMe.Paragraphs": [
+        "I'm a front-end focused developer with <span class='underline'> 6 years</span> of experience, specializing in <span class='underline'>Angular, TypeScript, and Javascript </span> building scalable, high-performance UIs. I’ve developed applications using<span class='underline'> NAG Grid, RxJS, GraphQL (Apollo), and NgRx,</span> with a strong emphasis on clean architecture and responsive design. I ensure reliability through robust unit and E2E testing using<span class='underline'> Jasmine, Karma, and Cypress.</span>",
+        "Alongside front-end expertise, I’ve contributed to backend development with <span class='underline'> Java (Spring Boot)</span> and worked with both <span class='underline'> SQL and NoSQL </span> databases. I’ve led teams, implemented <span class='underline'> CI/CD pipelines,</span> and optimized performance, and built scalable apps using <span class='underline'> monorepo and Micro Frontend (MFE) architecture</span>. I'm also familiar with React from cross-functional project work."
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "BNY Mellon",
+            "Title": "Sr. Software developer",
+            "Date": "January 2024 - Present",
+            "Description": [
+                "Developing and managing cybersecurity dashboards using Angular 16, AG Grid, PrimeNG, Spring Boot, and Oracle DB.",
+                "Implementing server-side pagination, filtering, and sorting in AG Grid for real-time data handling.",
+                "Enhancing threat intelligence analysis, reducing incident response times and improving monitoring.",
+                "Built dynamic visualizations with Highcharts and Chart.js deployed on Google App Engine.",
+                "Achieved 80%+ test coverage with Jasmine, Karma, and Cypress enabled CI/CD in mono-repo with Module Federation."
+            ]
+        },
+        {
+            "Tab": "PNC Bank",
+            "Title": "Sr. Software Engineer",
+            "Date": "August 2019 - January 2024",
+            "Description": [
+                "Led the Account Opening Experience platform with cross-team integration and collaboration.",
+                "Built scalable apps using Angular 14, NgRx, AG Grid, and Micro Frontend Architecture (MFE).",
+                "Developed reusable components and ensured WCAG AA accessibility compliance.",
+                "Integrated Spring Boot APIs with secure data handling and reusable service layers.",
+                "Streamlined CI/CD with Jenkins, Docker, OpenShift; followed Agile Scrum for delivery."
+            ]
+        },
+        {
+            "Tab": "VForce Infotech",
+            "Title": "UI developer",
+            "Date": "July 2018 - August 2018",
+            "Description": [
+                "Developed a social services app connecting neighborhoods with a user-friendly, Uber-like interface.",
+                "Built responsive UIs using Angular 2, jQuery, HTML5, and CSS3, based on Zeplin mockups.",
+                "Implemented strong input validation, error handling, and security measures.",
+                "Improved client websites by fixing bugs, enhancing performance, and deploying security updates.",
+                "Collaborated with cross-functional teams and led QA testing to ensure a smooth user experience."
+            ]
+        },
+        {
+            "Tab": "SoftVan",
+            "Title": "Software developer",
+            "Date": "July 2016 - April 2017",
+            "Description": [
+                "Built an Android app to scan barcodes and add products to cart for quick checkout.",
+                "Handled data with SQLite and managed app logic using Java.",
+                "Developed and maintained Java-based components for user interactions.",
+                "Ensured responsiveness and functionality of web apps using HTML, CSS, JavaScript, and jQuery.",
+                "Conducted testing, debugging, and created mockups to validate functionality."
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
